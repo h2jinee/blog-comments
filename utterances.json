@@ -1,8 +1,3 @@
-<script src="https://utteranc.es/client.js"
-        repo="h2jinee/blog-comment"
-        issue-term="title"
-        label="https://h2jinee.github.io/"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+{
+  "origins": ["https://h2jinee.github.io/"]
+}
