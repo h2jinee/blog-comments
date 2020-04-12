@@ -1,1 +1,1 @@
-✏ utterances를 이용한 블로그 댓글 앱 저장소 https://h2jinee.github.io/
+✏ utterances를 이용한 블로그 댓글 앱 저장소
